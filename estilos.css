@@ -1,0 +1,80 @@
+nav {
+    background-color: #777;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+nav h1 {
+    color: white;
+}
+
+.container {
+    width: 1140px;
+    max-width: 100%;
+    margin: auto;   
+}
+
+ul {
+    list-style: none;
+    float: left;
+    margin-right: 20px;
+}
+
+li {
+    background-color: cyan;
+    color: #222;
+    padding: 15px;
+    margin-bottom: 5px;
+}
+footer {
+    background-color: #777;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    clear: both;  /* clear siginifica limpar*/
+                  /*both significa ambos os lados*/
+    
+}
+
+
+/*
+.caixa {
+    background-color: black;
+    color: white;
+    padding: 50px;
+}
+
+.col-1 {
+    float: right;
+    width: 1140px;
+    max-width: 100%;
+}
+
+.col-2 {
+    max-width: 100%;
+    background-color: aqua;
+    color: white;
+    padding-right: 20px;
+    float: right;
+    padding-top: 10px;
+
+}
+
+.caixa-2 {
+    float: left;
+    background-color: gray;
+    color: white;
+    padding: 50px;
+}
+/*
+
+
+
+
+
+
+
+
+
+
